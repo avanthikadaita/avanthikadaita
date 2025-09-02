@@ -4,7 +4,7 @@ title: I'm Avanthika Daita
 hide: true
 ---
 
-Hi! My name is Avanthika Daita
+Hi! My name is Avanthika Daita!
 
 ### Development Environment
 
